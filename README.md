@@ -15,7 +15,8 @@ A simple and interactive Weather App built using HTML, CSS, JS. This project fet
 
 ## 📷 Screenshots
 
-![image](https://github.com/user-attachments/assets/f5b44baa-4a0e-42d8-9499-ecc0c4529e7c)
+![image](https://github.com/user-attachments/assets/26249c6a-4bca-49cb-8ca2-6efcaf2a25b9)
 
-![image](https://github.com/user-attachments/assets/dd5a9177-401c-4123-8b4a-acb8e8f2b05e)
+![image](https://github.com/user-attachments/assets/edbc864e-4192-45f2-bc5e-1401e46a6e5b)
+
 
